@@ -1,0 +1,16 @@
+# Only publication sources may enter this repository.
+/*
+!/.gitignore
+!/.gitattributes
+!/readme.md
+!/LICENSE
+!/build.sh
+!/arm64_bridge/
+/arm64_bridge/*
+!/arm64_bridge/CMakeLists.txt
+!/arm64_bridge/build_arm64.bat
+!/arm64_bridge/check_symbols.py
+!/arm64_bridge/src/
+/arm64_bridge/src/*
+!/arm64_bridge/src/*.cpp
+!/arm64_bridge/src/*.h
